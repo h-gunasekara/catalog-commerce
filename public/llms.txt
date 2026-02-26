@@ -1,0 +1,18 @@
+# Loggy — Premium Pants
+
+> Loggy is a premium pants brand focused on craftsmanship, comfort, and durability.
+
+## AI-Readable Endpoints
+
+- Storefront: https://catalog-commerce.com/ai/index.json
+- Product — The Linen Classic Trouser: https://catalog-commerce.com/ai/products/linen-classic.json
+- Product — The Oxford Essential Chino: https://catalog-commerce.com/ai/products/oxford-essential.json
+- Product — The Utility Work Pant: https://catalog-commerce.com/ai/products/utility-work.json
+
+## AI Sitemap
+
+https://catalog-commerce.com/ai-sitemap.xml
+
+## Notes
+
+All /ai/ endpoints return structured JSON designed for LLM consumption. Product data includes materials, sizing, variants, pricing, and availability.

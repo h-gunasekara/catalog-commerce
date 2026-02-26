@@ -1,0 +1,62 @@
+{
+  "brand": "Loggy",
+  "page_type": "product",
+  "canonical_human_url": "https://catalog-commerce.com/products/utility-work",
+  "category": "Pants",
+  "product": {
+    "id": "utility-work",
+    "name": "The Utility Work Pant",
+    "description": "Heavy-duty work pants built for all-day durability on the job and in the outdoors. Constructed from DWR-treated heavyweight cotton canvas with double-layer reinforced knees, a gusseted crotch for full range of motion, and eight total pockets for maximum utility. Articulated knee panels move with you through squats, climbs, and crawl spaces.",
+    "materials": ["100% Heavyweight Cotton Canvas", "340 GSM", "DWR (Durable Water Repellent) treated", "Cordura-reinforced knee panels"],
+    "fit": "Relaxed Workwear",
+    "rise": "Mid-High",
+    "waistband": "Fixed waistband with belt loops, zip fly with button closure, internal drawstring",
+    "waist_sizes": [28, 30, 32, 34, 36, 38, 40, 42],
+    "inseam_options": [28, 30, 32, 34],
+    "colors": ["Olive Drab", "Dark Navy", "Charcoal"],
+    "features": [
+      "Double-layer Cordura-reinforced knee panels",
+      "Gusseted crotch for range of motion",
+      "Eight pockets: 2 front slant, 2 back welt, 2 cargo, 1 utility, 1 hidden security",
+      "Hammer loop on right leg",
+      "Articulated knee construction",
+      "Triple-needle felled seams throughout",
+      "DWR water-resistant coating",
+      "Belt loops accommodate up to 1.75-inch belts"
+    ],
+    "care": [
+      "Machine wash cold inside out",
+      "Tumble dry medium",
+      "Do not bleach",
+      "Re-apply DWR spray after every 10 washes for continued water resistance",
+      "Iron on low heat if needed"
+    ],
+    "use_cases": [
+      "Construction and trades",
+      "Outdoor labor and landscaping",
+      "Hiking and trail work",
+      "Camping and backcountry",
+      "Workshop and garage",
+      "Everyday rugged wear"
+    ],
+    "variants": [
+      { "sku": "UW-OLIVE-28-30", "color": "Olive Drab", "waist": 28, "inseam": 30, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-OLIVE-30-30", "color": "Olive Drab", "waist": 30, "inseam": 30, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-OLIVE-32-32", "color": "Olive Drab", "waist": 32, "inseam": 32, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-OLIVE-34-32", "color": "Olive Drab", "waist": 34, "inseam": 32, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-OLIVE-36-34", "color": "Olive Drab", "waist": 36, "inseam": 34, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-OLIVE-38-34", "color": "Olive Drab", "waist": 38, "inseam": 34, "price_usd": 115.00, "availability": "in_stock" },
+      { "sku": "UW-OLIVE-40-34", "color": "Olive Drab", "waist": 40, "inseam": 34, "price_usd": 115.00, "availability": "in_stock" },
+      { "sku": "UW-OLIVE-42-34", "color": "Olive Drab", "waist": 42, "inseam": 34, "price_usd": 115.00, "availability": "low_stock" },
+      { "sku": "UW-NAVY-30-30", "color": "Dark Navy", "waist": 30, "inseam": 30, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-NAVY-32-32", "color": "Dark Navy", "waist": 32, "inseam": 32, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-NAVY-34-32", "color": "Dark Navy", "waist": 34, "inseam": 32, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-NAVY-36-34", "color": "Dark Navy", "waist": 36, "inseam": 34, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-NAVY-38-34", "color": "Dark Navy", "waist": 38, "inseam": 34, "price_usd": 115.00, "availability": "in_stock" },
+      { "sku": "UW-CHAR-30-30", "color": "Charcoal", "waist": 30, "inseam": 30, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-CHAR-32-32", "color": "Charcoal", "waist": 32, "inseam": 32, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-CHAR-34-32", "color": "Charcoal", "waist": 34, "inseam": 32, "price_usd": 105.00, "availability": "in_stock" },
+      { "sku": "UW-CHAR-36-34", "color": "Charcoal", "waist": 36, "inseam": 34, "price_usd": 115.00, "availability": "in_stock" }
+    ]
+  }
+}

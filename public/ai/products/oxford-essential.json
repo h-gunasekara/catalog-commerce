@@ -1,0 +1,58 @@
+{
+  "brand": "Loggy",
+  "page_type": "product",
+  "canonical_human_url": "https://catalog-commerce.com/products/oxford-essential",
+  "category": "Pants",
+  "product": {
+    "id": "oxford-essential",
+    "name": "The Oxford Essential Chino",
+    "description": "Tailored flat-front chinos made from heavyweight garment-dyed cotton twill with 2% elastane for comfortable stretch. A versatile wardrobe foundation that bridges the gap between casual and dressed-up. Medium rise, straight-leg silhouette that works with everything from loafers to sneakers. Garment-dyed for a rich, lived-in color that deepens over time.",
+    "materials": ["98% Cotton, 2% Elastane Twill", "260 GSM", "Garment-dyed finish", "Brushed interior for softness"],
+    "fit": "Straight",
+    "rise": "Mid",
+    "waistband": "Fixed waistband with internal grip strip, zip fly with button closure",
+    "waist_sizes": [28, 30, 32, 34, 36, 38, 40],
+    "inseam_options": [28, 30, 32, 34],
+    "colors": ["Stone Khaki", "Navy", "Faded Black"],
+    "features": [
+      "Flat front with clean lines",
+      "Zip fly with button closure",
+      "Two slant front pockets",
+      "Two welt back pockets with button closure",
+      "Internal waistband grip strip to keep shirts tucked",
+      "Coin pocket at right front",
+      "Bar-tacked stress points"
+    ],
+    "care": [
+      "Machine wash cold with like colors",
+      "Tumble dry low or hang dry",
+      "Iron on medium heat for crisp crease",
+      "Garment-dyed — colors will develop a natural patina over time"
+    ],
+    "use_cases": [
+      "Business casual office wear",
+      "Smart casual dinners and events",
+      "Everyday versatile wear",
+      "Date night",
+      "Travel — wrinkle-resistant twill"
+    ],
+    "variants": [
+      { "sku": "OE-KHAKI-28-30", "color": "Stone Khaki", "waist": 28, "inseam": 30, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-KHAKI-30-30", "color": "Stone Khaki", "waist": 30, "inseam": 30, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-KHAKI-32-32", "color": "Stone Khaki", "waist": 32, "inseam": 32, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-KHAKI-34-32", "color": "Stone Khaki", "waist": 34, "inseam": 32, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-KHAKI-36-34", "color": "Stone Khaki", "waist": 36, "inseam": 34, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-KHAKI-38-34", "color": "Stone Khaki", "waist": 38, "inseam": 34, "price_usd": 92.00, "availability": "in_stock" },
+      { "sku": "OE-KHAKI-40-34", "color": "Stone Khaki", "waist": 40, "inseam": 34, "price_usd": 92.00, "availability": "low_stock" },
+      { "sku": "OE-NAVY-30-30", "color": "Navy", "waist": 30, "inseam": 30, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-NAVY-32-32", "color": "Navy", "waist": 32, "inseam": 32, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-NAVY-34-32", "color": "Navy", "waist": 34, "inseam": 32, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-NAVY-36-34", "color": "Navy", "waist": 36, "inseam": 34, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-NAVY-38-34", "color": "Navy", "waist": 38, "inseam": 34, "price_usd": 92.00, "availability": "in_stock" },
+      { "sku": "OE-BLACK-30-30", "color": "Faded Black", "waist": 30, "inseam": 30, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-BLACK-32-32", "color": "Faded Black", "waist": 32, "inseam": 32, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-BLACK-34-32", "color": "Faded Black", "waist": 34, "inseam": 32, "price_usd": 82.00, "availability": "in_stock" },
+      { "sku": "OE-BLACK-36-34", "color": "Faded Black", "waist": 36, "inseam": 34, "price_usd": 92.00, "availability": "in_stock" }
+    ]
+  }
+}

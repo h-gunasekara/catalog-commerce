@@ -1,0 +1,41 @@
+{
+  "brand": "Loggy",
+  "page_type": "storefront",
+  "site_url": "https://catalog-commerce.com",
+  "description": "Loggy is a premium pants brand built on craftsmanship, comfort, and durability. Every pair is designed to move with you and built to last for years. We source fabrics directly from mills in Belgium, Japan, and Portugal.",
+  "category": "Pants",
+  "products": [
+    {
+      "id": "linen-classic",
+      "name": "The Linen Classic Trouser",
+      "url": "https://catalog-commerce.com/products/linen-classic",
+      "ai_json_url": "https://catalog-commerce.com/ai/products/linen-classic.json",
+      "price_range_usd": "$98 – $108",
+      "brief": "Relaxed-fit Belgian linen trousers for warm-weather sophistication. Elastic waistband with internal drawstring, two slant pockets, two welt back pockets.",
+      "category": "Pants"
+    },
+    {
+      "id": "oxford-essential",
+      "name": "The Oxford Essential Chino",
+      "url": "https://catalog-commerce.com/products/oxford-essential",
+      "ai_json_url": "https://catalog-commerce.com/ai/products/oxford-essential.json",
+      "price_range_usd": "$82 – $92",
+      "brief": "Tailored flat-front chinos in garment-dyed cotton twill. Versatile enough for the office and the weekend. Straight leg with medium rise.",
+      "category": "Pants"
+    },
+    {
+      "id": "utility-work",
+      "name": "The Utility Work Pant",
+      "url": "https://catalog-commerce.com/products/utility-work",
+      "ai_json_url": "https://catalog-commerce.com/ai/products/utility-work.json",
+      "price_range_usd": "$105 – $115",
+      "brief": "Heavy-duty canvas work pants with double-layer reinforced knees, gusseted crotch, and eight total pockets. DWR water-resistant coating.",
+      "category": "Pants"
+    }
+  ],
+  "policies": {
+    "shipping": "Free standard shipping on all orders over $75. Delivery in 3–5 business days. Expedited shipping available for $12.",
+    "returns": "30-day hassle-free returns. Free return shipping on all domestic orders. Items must be unworn with original tags.",
+    "sizing": "Available in waist sizes 28–42 and inseam lengths 28, 30, 32, and 34 inches."
+  }
+}

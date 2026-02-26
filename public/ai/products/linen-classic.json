@@ -1,0 +1,56 @@
+{
+  "brand": "Loggy",
+  "page_type": "product",
+  "canonical_human_url": "https://catalog-commerce.com/products/linen-classic",
+  "category": "Pants",
+  "product": {
+    "id": "linen-classic",
+    "name": "The Linen Classic Trouser",
+    "description": "Relaxed-fit trousers crafted from premium Belgian linen. Lightweight, breathable, and naturally temperature-regulating, these pants are built for warm-weather days without sacrificing style. Pre-washed for a soft hand feel that only improves with wear. Features an elastic waistband with internal drawstring for a personalized fit.",
+    "materials": ["100% Belgian Linen", "160 GSM", "Pre-washed finish", "Natural fiber — biodegradable"],
+    "fit": "Relaxed",
+    "rise": "Mid",
+    "waistband": "Elastic with internal drawstring and button closure",
+    "waist_sizes": [28, 30, 32, 34, 36, 38, 40],
+    "inseam_options": [28, 30, 32, 34],
+    "colors": ["Natural Oat", "Sand Dune", "Slate Blue"],
+    "features": [
+      "Elastic waistband with internal drawstring",
+      "Two slant front pockets",
+      "Two welt back pockets with button closure",
+      "Cuffed hem with 1.5-inch turn-up",
+      "French seam interior finishing",
+      "Reinforced stress points at pockets and fly"
+    ],
+    "care": [
+      "Machine wash cold on gentle cycle",
+      "Hang dry or lay flat — avoid tumble drying",
+      "Iron on medium heat while slightly damp for best results",
+      "Do not bleach"
+    ],
+    "use_cases": [
+      "Resort and vacation wear",
+      "Casual office / smart casual",
+      "Weekend outings and brunch",
+      "Beach and coastal travel",
+      "Warm-weather layering"
+    ],
+    "variants": [
+      { "sku": "LC-OAT-28-30", "color": "Natural Oat", "waist": 28, "inseam": 30, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-OAT-30-30", "color": "Natural Oat", "waist": 30, "inseam": 30, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-OAT-32-32", "color": "Natural Oat", "waist": 32, "inseam": 32, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-OAT-34-32", "color": "Natural Oat", "waist": 34, "inseam": 32, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-OAT-36-34", "color": "Natural Oat", "waist": 36, "inseam": 34, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-OAT-38-34", "color": "Natural Oat", "waist": 38, "inseam": 34, "price_usd": 108.00, "availability": "in_stock" },
+      { "sku": "LC-OAT-40-34", "color": "Natural Oat", "waist": 40, "inseam": 34, "price_usd": 108.00, "availability": "low_stock" },
+      { "sku": "LC-SAND-30-30", "color": "Sand Dune", "waist": 30, "inseam": 30, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-SAND-32-32", "color": "Sand Dune", "waist": 32, "inseam": 32, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-SAND-34-32", "color": "Sand Dune", "waist": 34, "inseam": 32, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-SAND-36-34", "color": "Sand Dune", "waist": 36, "inseam": 34, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-BLUE-30-30", "color": "Slate Blue", "waist": 30, "inseam": 30, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-BLUE-32-32", "color": "Slate Blue", "waist": 32, "inseam": 32, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-BLUE-34-32", "color": "Slate Blue", "waist": 34, "inseam": 32, "price_usd": 98.00, "availability": "in_stock" },
+      { "sku": "LC-BLUE-36-34", "color": "Slate Blue", "waist": 36, "inseam": 34, "price_usd": 108.00, "availability": "in_stock" }
+    ]
+  }
+}
